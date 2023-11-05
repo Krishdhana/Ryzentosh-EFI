@@ -8,3 +8,8 @@
 | RAM              | 1x 16GB XPG ADATA 3000Mhz                          |
 | GPU              | Gigabyte AMD Radeon RX6650XT 8GB                   |
 | Cooler    	     | Cooler Master ML360 V2          		                |
+
+
+
+
+Have to disable the NootRX kext till the installation, after that we can enable to get GPU acceleration without any extra modifications.
