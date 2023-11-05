@@ -11,5 +11,5 @@
 
 
 
-
+## Prerequisites
 Have to disable the NootRX kext till the installation, after that we can enable to get GPU acceleration without any extra modifications.
